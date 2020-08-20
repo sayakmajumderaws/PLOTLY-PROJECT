@@ -1,3 +1,6 @@
+#This code tries to display the covid 19 test positivity rate across Indian states using plotly choropleth maps
+#This is not an interactive chart
+
 import pandas as pd
 import plotly.express as px
 import json
