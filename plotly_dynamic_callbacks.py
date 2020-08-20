@@ -1,4 +1,5 @@
-#This code uses dynamic callback feature to compare various covid kpis across Indian States
+#This code uses dynamic callback feature to compare various covid kpis across Indian States using dash button and plotly bar charts
+
 import dash  # version 1.13.1
 import dash_core_components as dcc
 import dash_html_components as html
