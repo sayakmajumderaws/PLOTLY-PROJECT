@@ -1,3 +1,6 @@
+#This code analyzes the covid counts across continents and countries using dash data table,plotly pie and line chart
+#The data is downloaded from EU website
+
 import pandas as pd     #(version 1.0.0)
 import plotly           #(version 4.5.4) pip install plotly==4.5.4
 import plotly.express as px
