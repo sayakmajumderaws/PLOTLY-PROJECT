@@ -1,3 +1,5 @@
+#This code tries to analyze the cumulative growth of covid-19 in India using plotly line chart and time-range slider
+
 import pandas as pd     #(version 1.0.0)
 import plotly           #(version 4.5.0)
 import plotly.express as px
