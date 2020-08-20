@@ -1,3 +1,5 @@
+#This code tries to analyze the district level growth of covid-19 in India using plotly animated scatter plot
+
 import pandas as pd
 import datetime
 import plotly.express as px
