@@ -1,3 +1,4 @@
+#This code uses dynamic callback feature to compare various covid kpis across Indian States
 import dash  # version 1.13.1
 import dash_core_components as dcc
 import dash_html_components as html
